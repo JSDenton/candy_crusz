@@ -1,0 +1,6 @@
+- restrict swapping tiles only if final result is strike
+- if 3 are lined-up, additional tiles neighbouring are destroyed as well
+- double click serving specials
+- graphics (+animations?)
+- check if swapping works properly
+- different map shapes (later)
